@@ -18,9 +18,10 @@
 }
 
 body{
-  
-    background: url(../img/bg-orange.png);
+    background-color: #6A6A6A;
+    background: url(../img/bg-orange.png) no-repeat center;
     background-size: cover;
+    
     
 
 }
